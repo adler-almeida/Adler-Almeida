@@ -19,5 +19,5 @@ Sou apaixonado por tecnologia e estou em transição para a área de Desenvolvim
 Estou aberto a estágios e projetos na área de desenvolvimento, onde possa aprender, contribuir e crescer como Desenvolvedor Backend.
 
 📫 Vamos conversar?
-🔗 LinkedIn
-📧 E-mail
+🔗 LinkedIn https://www.linkedin.com/in/adler-almeida/
+📧 E-mail adler-almeida@hotmail.com
