@@ -20,4 +20,5 @@ Estou aberto a estágios e projetos na área de desenvolvimento, onde possa apre
 
 📫 Vamos conversar?
 🔗 LinkedIn https://www.linkedin.com/in/adler-almeida/
+
 📧 E-mail adler-almeida@hotmail.com
