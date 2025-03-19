@@ -1,8 +1,8 @@
 # 🚀 Adler Almeida
-Desenvolvedor Júnior | Backend | Python | Git & GitHub | Em Busca de Oportunidades em TI | Focado em Soluções Escaláveis e Eficientes
+Desenvolvedor Júnior | Backend | Python & Java (em transição) | Git & GitHub | Em Busca de Oportunidades em TI | Soluções Escaláveis e Eficientes
 
 ## 🎯 Sobre Mim
-Sou apaixonado por tecnologia com uma visão clara de como soluções bem projetadas podem transformar processos. No terceiro período de Análise e Desenvolvimento de Sistemas, estou focado em Backend, aprofundando meu conhecimento em Python, Git e GitHub. Minha experiência em gestão e otimização de processos, adquirida ao longo de mais de cinco anos, me permite aplicar um olhar estratégico para criar soluções escaláveis e eficientes. Busco oportunidades para crescer como Desenvolvedor Backend, trazendo inovação e resultados reais.
+Sou apaixonado por tecnologia com uma visão clara de como soluções bem projetadas podem transformar processos. No terceiro período de Análise e Desenvolvimento de Sistemas, estou focado em Backend, aprofundando meu conhecimento em Python. Minha experiência em gestão e otimização de processos, adquirida ao longo de mais de cinco anos, me permite aplicar um olhar estratégico para criar soluções escaláveis e eficientes. Busco oportunidades para crescer como Desenvolvedor Backend, trazendo inovação e resultados reais.
 
 ## 🔧 Habilidades & Tecnologias
 💻 **Backend**: Python  
