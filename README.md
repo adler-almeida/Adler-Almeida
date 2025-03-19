@@ -1,8 +1,8 @@
 # 🚀 Adler Almeida
-Desenvolvedor Backend em formação | Python | Buscando oportunidades para crescer na área de TI
+Desenvolvedor Júnior | Backend | Python | Git & GitHub | Em Busca de Oportunidades em TI | Focado em Soluções Escaláveis e Eficientes
 
 ## 🎯 Sobre Mim
-Sou apaixonado por tecnologia e estou em transição para a área de Desenvolvimento Backend. Atualmente, curso Análise e Desenvolvimento de Sistemas e aprimoro minhas habilidades em Python, Git e GitHub. Minha experiência em gestão e otimização de processos permite identificar e implementar soluções eficientes e escaláveis no desenvolvimento de software.
+Sou apaixonado por tecnologia com uma visão clara de como soluções bem projetadas podem transformar processos. No terceiro período de Análise e Desenvolvimento de Sistemas, estou focado em Backend, aprofundando meu conhecimento em Python, Git e GitHub. Minha experiência em gestão e otimização de processos, adquirida ao longo de mais de cinco anos, me permite aplicar um olhar estratégico para criar soluções escaláveis e eficientes. Busco oportunidades para crescer como Desenvolvedor Backend, trazendo inovação e resultados reais.
 
 ## 🔧 Habilidades & Tecnologias
 💻 **Backend**: Python  
@@ -11,9 +11,9 @@ Sou apaixonado por tecnologia e estou em transição para a área de Desenvolvim
 📈 **Análise de Processos e Automação**
 
 ## 📌 Destaques
-✅ Mais de cinco anos de experiência em liderança e gestão, com um olhar estratégico para eficiência e processos.  
-✅ Criação de um Procedimento Operacional Padrão (POP) para otimizar o uso do sistema Procfit, capacitando equipes.  
+✅ Mais de cinco anos de experiência em liderança e gestão, com um olhar estratégico para eficiência e processos.
 ✅ Experiência em levantamento e análise de dados, garantindo precisão em projetos.
+✅ Criação de um Procedimento Operacional Padrão (POP) para otimizar o uso do sistema Procfit, capacitando equipes.
 
 ## 📢 Buscando Oportunidades
 Estou aberto a estágios e projetos na área de desenvolvimento, onde possa aprender, contribuir e crescer como Desenvolvedor Backend.
