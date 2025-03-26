@@ -9,10 +9,11 @@ Além disso, possuo experiência na área de engenharia e apoio à gestão de ob
 Atualmente, estou aprofundando meus estudos em **Java para Backend**, além de utilizar **Git e GitHub** para versionamento e colaboração de projetos. Acredito no poder da tecnologia para transformar processos e melhorar resultados, e sigo evoluindo constantemente para criar soluções eficientes e escaláveis.
 
 ## 🔧 Habilidades & Tecnologias
-💻 **Backend**: Java | Python  
-🛢 **Banco de Dados**: MySQL (aprendendo) | PostgreSQL (aprendendo)  
-⚙️ **Versionamento**: Git/GitHub  
-📈 **Análise de Processos e Automação**
+✨ **Linguagens**: Java | Python  
+💻 **Backend**: Desenvolvimento de APIs e Serviços  
+📊 **Banco de Dados**: MySQL (aprendendo) | PostgreSQL (aprendendo)  
+🔄 **Versionamento**: Git/GitHub  
+📊 **Análise de Processos e Automatação**
 
 ## 📌 Destaques
 ✅ Mais de cinco anos de experiência em liderança e gestão, com foco em eficiência e otimização de processos.  
@@ -22,7 +23,7 @@ Atualmente, estou aprofundando meus estudos em **Java para Backend**, além de u
 ## 📢 Buscando Oportunidades
 Estou em busca de oportunidades que me permitam crescer como desenvolvedor, contribuindo com minha experiência e aprendendo cada vez mais para impactar positivamente o mundo através da tecnologia.
 
-## 📫 Vamos Conversar?
-🔗 [LinkedIn](https://www.linkedin.com/in/adler-almeida/)  
+## 📩 Vamos Conversar?
+👉 [LinkedIn](https://www.linkedin.com/in/adler-almeida/)  
 📧 [E-mail](adler-almeida@hotmail.com)
 
