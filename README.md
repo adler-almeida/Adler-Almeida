@@ -33,7 +33,7 @@ Atualmente, utilizo **Git** e **GitHub** para versionamento e colaboração em p
 
 ## 🚧 Projetos em Destaque
 
-### 📘 [Guia SQL com MySQL](https://github.com/adler-almeida/Guia-SQL-com-MySQL)
+### 📘 [Guia SQL com MySQL](https://github.com/adler-almeida/Mysql-guia)
 Repositório com anotações, comandos e conceitos importantes sobre SQL, baseados no curso do Gustavo Guanabara.
 
 ### 🐍 [Estudos em Python](https://github.com/adler-almeida/Python)
