@@ -2,11 +2,7 @@
   <img src="https://via.placeholder.com/600x200/0000FF/808080?text=Adler+Almeida" alt="" width="100%" />
 </h1>
 
-<p align="center">
-  <img src="https://github.com/adler-almeida.png?size=150" alt="Adler Almeida" width="150" style="border-radius: 50%;" />
-</p>
-
-<h1 align="center">🚀 Adler Almeida</h1>
+<h1 align="center">👨🏻‍💻 Adler Almeida</h1>
 
 <p align="center">
   <strong>Desenvolvedor Júnior</strong> • Python & SQL • Git/GitHub • Backend & Automação • Estudante de ADS
