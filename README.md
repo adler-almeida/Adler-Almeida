@@ -16,7 +16,7 @@
 
 ## 🎯 Sobre Mim
 
-Sou um entusiasta da tecnologia, em transição de carreira, cursando o 3º período de **Análise e Desenvolvimento de Sistemas**. Meu foco atual está no desenvolvimento **Backend**, com ênfase em **Python**, **SQL** e **automação de processos**.
+Sou um entusiasta da tecnologia, em transição de carreira, cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas**. Meu foco atual está no desenvolvimento **Backend**, com ênfase em **Python**, **SQL** e **automação de processos**.
 
 Minha trajetória anterior em **gestão e engenharia** me proporcionou habilidades como análise crítica, resolução de problemas e melhoria contínua. Já implementei soluções que otimizaram fluxos e aumentaram a eficiência operacional.
 
