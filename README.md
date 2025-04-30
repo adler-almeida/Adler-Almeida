@@ -39,7 +39,7 @@ Repositório com anotações, comandos e conceitos importantes sobre SQL, basead
 ### 🐍 [Estudos em Python](https://github.com/adler-almeida/Python)
 Exercícios, desafios e práticas de lógica e programação com Python.
 
-> 🔗 *Explore todos os projetos no [meu GitHub](https://github.com/adler-almeida)*
+> 🔗 *Explore todos os projetos no [Repositório](https://github.com/adler-almeida?tab=repositories)*
 
 ---
 
