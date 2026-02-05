@@ -1,66 +1,82 @@
-<h1 align="center">
-  <img src="https://via.placeholder.com/600x200/0000FF/808080?text=Adler+Almeida" alt="" width="100%" />
-</h1>
-
 <h1 align="center">👨🏻‍💻 Adler Almeida</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Júnior</strong> • Python & SQL • Git/GitHub • Backend & Automação • Estudante de ADS
+  <strong>Analista Júnior de Dados e Sistemas</strong><br/>
+  ERP • Excel Avançado • Automação • Python & SQL
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adler-almeida/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adler%20Almeida-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:adler-almeida@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-adler.almeida@hotmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🎯 Sobre Mim
 
-Sou um entusiasta da tecnologia, em transição de carreira, cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas**. Meu foco atual está no desenvolvimento **Backend**, com ênfase em **Python**, **SQL** e **automação de processos**.
+Sou **Analista Júnior de Dados e Sistemas**, em transição consolidada para a área de tecnologia, cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-Minha trajetória anterior em **gestão e engenharia** me proporcionou habilidades como análise crítica, resolução de problemas e melhoria contínua. Já implementei soluções que otimizaram fluxos e aumentaram a eficiência operacional.
+Atuo com **análise de dados, automação de processos e apoio a sistemas corporativos (ERP)**, utilizando tecnologia como meio para **organizar informações, otimizar fluxos e apoiar a tomada de decisão**.
 
-Atualmente, utilizo **Git** e **GitHub** para versionamento e colaboração em projetos, buscando me desenvolver constantemente para contribuir com soluções inovadoras e escaláveis.
+Minha trajetória anterior em **processos, engenharia e gestão** fortaleceu meu perfil analítico, senso crítico e visão sistêmica — habilidades que hoje aplico diretamente em soluções técnicas e analíticas.
 
----
-
-## 🛠️ Habilidades e Tecnologias
-
-| Categoria         | Tecnologias                                 |
-|-------------------|----------------------------------------------|
-| **Linguagens**     | `Python`, `SQL`                              |
-| **Banco de Dados** | `MySQL`, `PostgreSQL` *(em aprendizado)*     |
-| **Ferramentas**    | `Git`, `GitHub`, `VS Code`, `Jupyter`        |
-| **Extras**         | Automação de Processos, Análise de Dados     |
+Este GitHub reúne **estudos, projetos e registros técnicos** que complementam meu perfil profissional.
 
 ---
 
-## 🚧 Projetos em Destaque
+## 🛠️ Competências Técnicas
 
-### 📘 [Guia SQL com MySQL](https://github.com/adler-almeida/Mysql-guia)
-Repositório com anotações, comandos e conceitos importantes sobre SQL, baseados no curso do Gustavo Guanabara.
-
-### 🐍 [Estudos em Python](https://github.com/adler-almeida/Python)
-Exercícios, desafios e práticas de lógica e programação com Python.
-
-> 🔗 *Explore todos os projetos no meu [Repositório](https://github.com/adler-almeida?tab=repositories)*
-
----
-
-## 💡 Destaques da Carreira
-
-- +5 anos de experiência em liderança, processos e gestão.
-- Participação em mapeamento técnico para a Prefeitura de Volta Redonda-RJ.
-- Implementação de soluções que aumentaram a produtividade da equipe.
-- Mentalidade analítica e voltada à melhoria contínua.
+| Área | Tecnologias |
+|------|------------|
+| **Linguagens** | `Python`, `SQL` |
+| **Dados** | Análise de dados, consultas SQL, modelagem básica |
+| **Ferramentas** | `Git`, `GitHub`, `Excel Avançado`, `VS Code`, `Jupyter` |
+| **Sistemas** | ERP, automação de processos, visão sistêmica |
 
 ---
 
-## 📢 Em Busca de Oportunidades
+## 📂 Repositórios em Destaque
 
-Estou aberto a **estágios e posições júnior** em **Desenvolvimento de Software**, com interesse em backend, automação e dados. Busco equipes que valorizem aprendizado constante, colaboração e soluções com propósito.
+### 📘 Guia SQL (MySQL)
+🔗 https://github.com/adler-almeida/Mysql-guia  
+Anotações práticas, comandos e fundamentos de SQL aplicados ao contexto de dados.
+
+### 🐍 Estudos em Python
+🔗 https://github.com/adler-almeida/Python  
+Exercícios, lógica de programação e automações simples com foco em aprendizado técnico.
+
+> 📌 *Este repositório é atualizado conforme avanço nos estudos e projetos práticos.*
 
 ---
 
-## 📬 Vamos Conversar?
+## 💡 Experiência e Diferenciais
+
+- Experiência prévia com **processos, análise e gestão**
+- Atuação prática com **dados e sistemas corporativos**
+- Perfil analítico, organizado e orientado à melhoria contínua
+- Facilidade em transitar entre **negócio e tecnologia**
+
+---
+
+## 📢 Objetivo Profissional
+
+Busco oportunidades como **Analista Júnior / Estagiário em Dados, Sistemas ou Tecnologia**, onde possa evoluir tecnicamente e contribuir com soluções estruturadas, eficientes e escaláveis.
+
+---
+
+## 📬 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adler-almeida/"><img src="https://img.shields.io/badge/LinkedIn-Adler%20Almeida-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:adler-almeida@hotmail.com"><img src="https://img.shields.io/badge/Email-adler--almeida%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adler-almeida/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adler%20Almeida-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:adler-almeida@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-adler.almeida@hotmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
